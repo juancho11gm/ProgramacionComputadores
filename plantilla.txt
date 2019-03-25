@@ -1,0 +1,14 @@
+SÚPER  CÁLCULO S.A.
+<Nombre> <Apellidos>
+Ciudad
+
+Después de un análisis detallado de cada movimiento de efectivo realizado en la semana <Súper ior derecha> se obtuvieron los siguientes datos:
+
+	Unidades producidas <inferior derecha>
+Unidades vendidas <Súper ior izquierda>
+	Utilidad Operacional <inferior izquierda>
+Utilidad Neta <(filas/2, columnas/2)>
+
+Cordial Saludo.
+
+Departamento de Finanzas.
