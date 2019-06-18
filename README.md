@@ -27,3 +27,5 @@ Dicho reporte debe ser almacenado en la misma ruta del disco duro del computador
 
 Su programa debe permitir mostrar en pantalla la lista de los archivos que se encuentran en una ruta determinada. Debe existir la opción de mostrar la lista por nombre y por tipo de archivo (dicha lista debe estar ordenada lexicográficamente). Debido a la gran cantidad de archivos que existen en el disco, se sugiere que los datos se inserten en su lista de forma ordenada y que siempre se tengan ordenados por ambos criterios.
 
+
+Ver: https://www.youtube.com/watch?v=N-4DgTbdPk0
