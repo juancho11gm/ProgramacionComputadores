@@ -1,4 +1,5 @@
-# Programación de computadores
+# Computer programming
+
 Proyecto programación de computadores Hoja de cálculo
 
 Gestor de Archivos
